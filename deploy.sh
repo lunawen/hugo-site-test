@@ -12,7 +12,7 @@ then
 
     git config credential.helper store
     git config user.email "lunawen-git-bot@users.noreply.github.com"
-    git config user.name "username-gitg-bot"
+    git config user.name "lunawen-git-bot"
 fi
 
 git add .
